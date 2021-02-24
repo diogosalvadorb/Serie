@@ -16,6 +16,6 @@ O projeto foi  desenvolvido utilizando as seguintes tecnologias
 ## Como usar
 
 - Faça um clone desse repositório: `git clone https://github.com/diogosalvadorb/Serie.git`
-- Entre na pasta do projeto `Bank` e execute aplicação: `F5`
+- Entre na pasta do projeto `Serie` e execute aplicação: `F5`
 - Para executar o código no Visual Studio Code utilize o comando: `dotnet run`
 
